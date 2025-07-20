@@ -1,1 +1,1 @@
-This project is a clone of Pakwheels websites for car selling. technologies used are React + vite and tailwindCss it's a Responsive websites with adding a new car functionality and saving it the local storage.
+This project is a task giving by PaySys it's about a clone of Pakwheels websites for car selling. technologies used are React + vite and tailwindCss it's a Responsive websites with adding a new car functionality and saving it into the local storage.
